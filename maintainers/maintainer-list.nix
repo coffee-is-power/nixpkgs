@@ -64,6 +64,12 @@
     githubId = 64707304;
     name = "Dmitry Kulikov";
   };
+  coffeeispower = {
+    email = "tiagodinis33@proton.me";
+    github = "coffee-is-power";
+    name = "Tiago Dinis";
+    githubId = 92828847;
+  };
   _0x120581f = {
     email = "nixpkgs@0x120581f.dev";
     name = "0x120581f";
